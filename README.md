@@ -8,7 +8,7 @@ The intent of this theme is to provide a solid starting place for [GoHugo](https
 ![screenshot](images/screenshot.png)
 
 [DEMO](https://ananke-theme.netlify.app/)
-
+ 
 Features
 
 * Responsive
